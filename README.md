@@ -1,3 +1,9 @@
+<h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
+<h3 align="center">A passionate flutter developer from Pakistan</h3>
+
+- 📫 How to reach me **arbabhussain414@gmail.com**
+<img  align="right" width="400"  src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_1280.jpg" alt="">
+
 # 💫 About Me:
 Flutter Developer at Fleact Tech<br><br>Focused on creating smooth, high-performance apps<br><br>Passionate about learning core Flutter concepts<br><br>Exploring AI/ML model integration in apps<br><br>Skilled in web development and UI/UX design<br><br>
 
