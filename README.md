@@ -1,44 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
-<h1 align="center">
-  <span class="wave" style="display:inline-block;">👋</span> Hello, I'm Arbab Hussain!
-</h1>
-
-<p align="center">
-  <span class="text">Flutter Developer | Mobile App Enthusiast | Tech Explorer</span>
-</p>
-
-<style>
-  .wave {
-    animation-name: wave-animation;
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14.0deg); }
-    20% { transform: rotate(-8.0deg); }
-    30% { transform: rotate(14.0deg); }
-    40% { transform: rotate(-4.0deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); }  
-    100% { transform: rotate(0.0deg); }
-  }
-
-  .text {
-    animation: text-blink 3s infinite;
-  }
-
-  @keyframes text-blink {
-    0%, 100% { color: #000; }
-    50% { color: #f00; }
-  }
-</style>
-
+<p align="center"> <samp> <b> <span style="font-size: 24px;"> <span class="animation-text">I'm a Flutter Developer.</span><br> <span class="animation-text">I'm a Web Developer.</span><br> <span class="animation-text">I'm a UI/UX Designer.</span><br> <span class="animation-text">I build responsive apps.</span><br> <span class="animation-text">I love learning new technologies.</span> </span> </b> </samp> </p> <style> .animation-text { display: inline-block; font-family: 'Arial', sans-serif; font-size: 20px; opacity: 0; animation: fadeInOut 15s infinite; } @keyframes fadeInOut { 0%, 20% { opacity: 0; } 30%, 50% { opacity: 1; } 60%, 100% { opacity: 0; } } .animation-text:nth-child(2) { animation-delay: 3s; } .animation-text:nth-child(3) { animation-delay: 6s; } .animation-text:nth-child(4) { animation-delay: 9s; } .animation-text:nth-child(5) { animation-delay: 12s; } </style>
 - 📫 How to reach me **arbabhussain414@gmail.com**
 <img  align="right" width="400"  src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_1280.jpg" alt="">
 
