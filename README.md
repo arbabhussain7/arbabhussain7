@@ -1,7 +1,44 @@
 <h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<h1 align="center">
+  <span class="wave" style="display:inline-block;">👋</span> Hello, I'm Arbab Hussain!
+</h1>
+
+<p align="center">
+  <span class="text">Flutter Developer | Mobile App Enthusiast | Tech Explorer</span>
+</p>
+
+<style>
+  .wave {
+    animation-name: wave-animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0.0deg); }
+    10% { transform: rotate(14.0deg); }
+    20% { transform: rotate(-8.0deg); }
+    30% { transform: rotate(14.0deg); }
+    40% { transform: rotate(-4.0deg); }
+    50% { transform: rotate(10.0deg); }
+    60% { transform: rotate(0.0deg); }  
+    100% { transform: rotate(0.0deg); }
+  }
+
+  .text {
+    animation: text-blink 3s infinite;
+  }
+
+  @keyframes text-blink {
+    0%, 100% { color: #000; }
+    50% { color: #f00; }
+  }
+</style>
+
 - 📫 How to reach me **arbabhussain414@gmail.com**
 <img  align="right" width="400"  src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_1280.jpg" alt="">
 
