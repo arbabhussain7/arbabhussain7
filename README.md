@@ -1,6 +1,4 @@
 <h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
-<a href="https://github.com/Muhammad-Hassan-Farid"><img src="https://camo.githubusercontent.com/7709271dec6e63b8e5f53b0a17be27a380d053b0c9728792643b1356df9bc0e9/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d5765622b446576656c6f7065723b446174612b416e616c7973743b446174612b536369656e746973743b4173706972696e672b446565702b4c6561726e696e672b50726163746974696f6e65722663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Web+Analyst;UI/UX Designer;center=true&amp;width=500&amp;height=50" style="max-width: 100%;"></a>
-
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
 
