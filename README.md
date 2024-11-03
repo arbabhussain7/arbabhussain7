@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+lines=Mobile+App+Developer;Flutter+Developer;Frontend+Developer;UI/UX+Designer&center=true&width=500&height=50"></a>
 
 
 # 💫 About Me:
