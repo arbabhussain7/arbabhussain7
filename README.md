@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Arbab Hussain</h1>
 
 <p align='center'>
- <a href="https://github.com/arbabhussain7"><img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+App+Developer;Flutter+Developer;Frontend+Developer;UI/UX+Designe&center=true&width=500&height=50"></a>
+ <a href="https://github.com/arbabhussain7"><img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+App+Developer;Flutter+Developer;Frontend+Developer;UI/UX+Designe&center=true&width=900&height=90"></a>
 </p>
 
 # 💫 About Me:
