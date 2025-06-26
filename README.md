@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
 # 💫 About Me:
-- Flutter Developer at Eon Weave Labs<br>
+- Flutter Developer at Aridian Technologies<br>
 - Focused on creating smooth, high-performance apps<br>
 - Passionate about learning core Flutter concepts<br>
 - Exploring AI/ML model integration in apps<br>
